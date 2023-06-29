@@ -188,7 +188,9 @@ body {
 
 
 /* Contact */
-
+.contact{
+    padding: 5px;
+}
 .contact .section-content{
     justify-content: center;
 
@@ -200,6 +202,8 @@ body {
     border: none;
     background-color: #f8f8f8;
     margin: 16px;
+    justify-content: center;
+
     
 }
 .contact  input:first-child {
@@ -285,7 +289,10 @@ footer .container{
         top: 60px;
         color: #0a0a0a;
     }
-
+    .hero iframe{
+        max-width: 80%;
+        min-height: auto;
+    }
     .services .section-content {
         flex-direction:row;
     }
