@@ -11,7 +11,7 @@
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/ui/dist/fancybox.css"/>
         <link rel="stylesheet" href="../css/normalizes.css">
-        <link rel="stylesheet" href="../css/styles.css">
+        <link rel="stylesheet" href="../css/style.css">
         <script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui@4.0/dist/fancybox.umd.js" defer></script>
         <script src="../js/scrap.js" defer></script>
         <script>

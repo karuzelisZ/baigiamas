@@ -1,3 +1,12 @@
+<section class="hero">
+    <div class="container">
+    </div>
+</section>
+<section class="head">
+    <div class="container">
+        <h1>Katės</h1>
+    </div>
+</section>
 <section class="services">
     <div class="container">
         <div class="section-content flex-container">
@@ -14,6 +23,17 @@
                 <h2>Katė</h2>
             </div>
         </div>
+    </div>
+</section>
+
+<section class="head">
+    <div class="container">
+        <h1>Šunys</h1>
+    </div>
+</section>
+<section class="services">
+    <div class="container">
+            
         <div class="section-content flex-container">
             <div class="service">
                 <img src="../images/dog_1.jpg" alt="dog_1" id="dimg1" onclick="changeImage4()">

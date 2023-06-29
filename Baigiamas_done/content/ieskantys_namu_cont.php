@@ -1,3 +1,42 @@
+<section class="hero">
+    <div class="container">
+    </div>
+</section>
+<section class="head">
+    <div class="container">
+        <h1>Šunys</h1>
+    </div>
+</section>
+<section class="services">
+    <div class="container">
+        <div class="section-content flex-container">
+            <div class="service">
+                <a data-fancybox="services1"href="../images/dog_1.jpg">
+                <img src="../images/dog_1.jpg" alt="dog_1">
+                </a>
+                <h2>Šuo</h2>
+            </div>
+            <div class="service">
+                <a data-fancybox="services1"href="../images/dog_2.jpg">
+                <img src="../images/dog_2.jpg" alt="dog_2">
+                </a>
+                <h2>Šuo</h2>
+            </div>
+            <div class="service">
+                <a data-fancybox="services1"href="../images/dog_3.jpg">
+                <img src="../images/dog_3.jpg" alt="dog_3">
+                </a>
+                <h2>Šuo</h2>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="head">
+    <div class="container">
+        <h1>Katės</h1>
+    </div>
+</section>
 <section class="services">
     <div class="container">
         <div class="section-content flex-container">
@@ -19,26 +58,6 @@
                 </a>
                 <h2>Katė</h2>
             </div>
-        </div>
-        <div class="section-content flex-container">
-            <div class="service">
-                <a data-fancybox="services1"href="../images/dog_1.jpg">
-                <img src="../images/dog_1.jpg" alt="dog_1">
-                </a>
-                <h2>Šuo</h2>
-            </div>
-            <div class="service">
-                <a data-fancybox="services1"href="../images/dog_2.jpg">
-                <img src="../images/dog_2.jpg" alt="dog_2">
-                </a>
-                <h2>Šuo</h2>
-            </div>
-            <div class="service">
-                <a data-fancybox="services1"href="../images/dog_3.jpg">
-                <img src="../images/dog_3.jpg" alt="dog_3">
-                </a>
-                <h2>Šuo</h2>
-            </div>
-        </div>
+        </div> 
+    </div>
 </section>
-
