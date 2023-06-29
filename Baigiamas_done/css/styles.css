@@ -278,7 +278,10 @@ footer .container{
         flex-direction:row;
     }
 
-    
+    .home img{
+        max-width: 80%;
+        min-height: auto;
+    }
     .services img{
         max-width: 80%;
         min-height: auto;
